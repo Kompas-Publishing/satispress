@@ -9,3 +9,4 @@
 /.phpcs.xml
 /.phpunit.result.cache
 /phpunit.xml
+auth.json
